@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Yareth Leal</h1>
+
+<br>
+<h1>About me</h1>
+
+- 🎒 I'm a recent graduate.
+- 💻 I'm majoring in computer science.
+- 💚 I'm currently looking for work.
+- 📚 I'm currently learning Django and Cloud Computing.
+
 <h1 align="left">🧠 Skills Showcase</h1>
 
 ### ☕️Languages
@@ -23,3 +33,8 @@
 ### 🐙Others
 
 [![Others](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)
+
+<h1>GitHub Stats 📊</h1>
+ 
+![Mei's github stats](https://github-readme-stats.vercel.app/api?username=YarethLeal&show_icons=true&theme=dracula) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YarethLeal&theme=dracula)](https://git.io/streak-stats)
