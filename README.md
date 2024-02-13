@@ -34,7 +34,3 @@
 
 [![Others](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)
 
-<h1>GitHub Stats 📊</h1>
- 
-![Mei's github stats](https://github-readme-stats.vercel.app/api?username=YarethLeal&show_icons=true&theme=dracula) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YarethLeal&theme=dracula)](https://git.io/streak-stats)
