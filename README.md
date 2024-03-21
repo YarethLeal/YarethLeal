@@ -7,6 +7,7 @@
 - 💻 I'm majoring in computer science.
 - 💚 I'm currently looking for work.
 - 📚 I'm currently learning Django and Cloud Computing.
+- Portfolio in progress....
 
 <h1 align="left">🧠 Skills Showcase</h1>
 
