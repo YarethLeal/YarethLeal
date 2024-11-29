@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Yareth Leal</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width=32 heigth=32>, I'm Yareth Leal</h1>
 
 <br>
 <h1>About me</h1>
 
-- 🎒 I'm a recent graduate.
-- 💻 I'm majoring in computer science.
+- 🎒 I'm a graduated as bachelor in business computing from the University of Costa Rica.
 - 💚 I'm currently looking for work.
-- 📚 I'm currently learning Django and Cloud Computing.
+- 📚 I'm currently learning Cloud Computing.
 - Portfolio in progress....
 
 <h1 align="left">🧠 Skills Showcase</h1>
@@ -33,5 +32,5 @@
 
 ### 🐙Others
 
-[![Others](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=git,github,linux,gcp)](https://skillicons.dev)
 
